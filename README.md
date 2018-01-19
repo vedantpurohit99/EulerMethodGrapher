@@ -3,3 +3,4 @@ This program graphs a solution to a given differential equation and an initial p
 
 Program by Vedant Purohit, Michael Li, Abdul Arif
 
+<img src="https://github.com/vedantpurohit99/WeightAndBalanceApp/blob/master/Images/Home%20Page.JPG" width="250" height="444">
